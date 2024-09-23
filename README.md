@@ -1,7 +1,4 @@
-# resources
-
-
-
+# Resources
 
 ###### **methodologies and techniques**
 
@@ -26,7 +23,8 @@
 [freecodecamp.org](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 [Cheet-sheet](https://www.golinuxcloud.com/linux-commands-cheat-sheet/)
 [ss64](https://ss64.com/bash/)     # suggested 
-[Linux_videos](https://youtu.be/fwGqm8T9drI?si=vBpkpO3j4e7-EwB1)
+
+[Video](https://youtu.be/fwGqm8T9drI?si=vBpkpO3j4e7-EwB1)
 
 
 
